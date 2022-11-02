@@ -1,5 +1,5 @@
 db.createUser({
         user: "admin",
-        pwd: "*Hn%v4ok9qAO",
+        pwd: "13*5yfKj@jw*",
         roles: [{role: "dbOwner", db: "ship_sticks_development"}]
 });
